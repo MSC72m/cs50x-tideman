@@ -21,7 +21,7 @@ You will be prompted to enter the number of voters and then to rank candidates i
 ## Algorithm Explanation
 The Tideman voting algorithm (also known as Ranked Pairs) is a voting system that prioritizes candidates who win the strongest pairwise contests. The algorithm works as follows:
 
-Record Preferences:
+### Record Preferences:
 
 For each voter's ranking, update the preferences to reflect the number of voters who prefer candidate A over candidate B.
 ### Create Pairs:
